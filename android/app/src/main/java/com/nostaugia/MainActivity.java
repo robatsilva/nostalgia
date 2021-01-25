@@ -1,4 +1,4 @@
-package com.nostaugia;
+package com.nostalgia;
 
 import android.os.Bundle;
 

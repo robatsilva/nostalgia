@@ -35,12 +35,12 @@ android_library(
 
 android_build_config(
     name = "build_config",
-    package = "com.nostaugia",
+    package = "com.nostalgia",
 )
 
 android_resource(
     name = "res",
-    package = "com.nostaugia",
+    package = "com.nostalgia",
     res = "src/main/res",
 )
 

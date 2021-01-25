@@ -1,9 +1,9 @@
 {
-  "name": "nostaugia",
-  "displayName": "nostaugia",
+  "name": "nostalgia",
+  "displayName": "nostalgia",
   "expo": {
-    "name": "nostaugia",
-    "slug": "nostaugia",
+    "name": "nostalgia",
+    "slug": "nostalgia",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"

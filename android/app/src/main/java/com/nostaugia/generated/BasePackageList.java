@@ -1,4 +1,4 @@
-package com.nostaugia.generated;
+package com.nostalgia.generated;
 
 import java.util.Arrays;
 import java.util.List;
